@@ -7,6 +7,8 @@ class Pleno < Formula
 
   def install
     bin.install "dist/pleno"
+    bin.install "dist/pleno-lsp"
+    bin.install "dist/pleno-repl"
     bin.install "dist/plm"
   end
 
