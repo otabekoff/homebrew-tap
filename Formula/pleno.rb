@@ -1,8 +1,8 @@
 class Pleno < Formula
   desc "Pleno Programming Language"
   homepage "https://github.com/otabekoff/pleno"
-  url "https://github.com/otabekoff/pleno/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/otabekoff/pleno/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "a485b6db16946ef0b47b706f3a30bbb4de0ccd4bcd9016b67ffd20aaf667fd3b"
   license "MIT"
 
   def install
